@@ -1,8 +1,17 @@
 <div align="center">
 
-# ASTRA
+<br>
 
-**Agentic Schema for Transparent Research Analysis**
+<a href="https://astra-spec.org">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/astra-project/brand/main/logo/astra-lockup-descriptor-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/astra-project/brand/main/logo/astra-lockup-descriptor.svg">
+    <img alt="ASTRA: Agentic Schema for Transparent Research Analysis" src="https://raw.githubusercontent.com/astra-project/brand/main/logo/astra-lockup-descriptor.svg" width="560">
+  </picture>
+</a>
+
+<br>
+<br>
 
 *An open, declarative format for scientific analyses: what you want to learn, the choices you made along the way, and the evidence behind them.*
 
@@ -91,6 +100,7 @@ ASTRA started at [Lightcone Research](https://github.com/LightconeResearch), whi
 | [**astra-typescript**](https://github.com/LightconeResearch/astra-typescript) | The TypeScript SDK, to validate and resolve ASTRA analyses in Node and the browser. [`npm install @astra-spec/sdk`](https://www.npmjs.com/package/@astra-spec/sdk) |
 | [**astra-ui**](https://github.com/LightconeResearch/astra-ui) | Composable, themable React components to display ASTRA analyses. [`npm install @astra-spec/ui`](https://www.npmjs.com/package/@astra-spec/ui) |
 | [**MySTRA**](https://github.com/LightconeResearch/MySTRA) | A [MyST](https://mystmd.org) plugin to write publications on top of ASTRA analyses, pulling in decisions, outputs and numbers by reference. |
+| [**brand**](https://github.com/astra-project/brand) | The ASTRA logo, colours, type and usage rules, with light and dark versions of every asset. |
 
 ### Built on ASTRA
 
