@@ -95,8 +95,8 @@ ASTRA started at [Lightcone Research](https://github.com/LightconeResearch), whi
 
 | Repository | What it is |
 |---|---|
-| [**astra-spec**](https://github.com/LightconeResearch/astra-spec) | The specification: the LinkML schema, the generated JSON Schemas, the conformance suite, the RFCs, and the documentation at [astra-spec.org](https://astra-spec.org). |
-| [**astra-tools**](https://github.com/LightconeResearch/astra-tools) | The Python SDK and the `astra` CLI: validation, inspection, planning and evidence verification. [`pip install astra-tools`](https://pypi.org/project/astra-tools/) |
+| [**astra-spec**](https://github.com/astra-project/astra-spec) | The specification: the LinkML schema, the generated JSON Schemas, the conformance suite, the RFCs, and the documentation at [astra-spec.org](https://astra-spec.org). |
+| [**astra-tools**](https://github.com/astra-project/astra-tools) | The Python SDK and the `astra` CLI: validation, inspection, planning and evidence verification. [`pip install astra-tools`](https://pypi.org/project/astra-tools/) |
 | [**astra-typescript**](https://github.com/LightconeResearch/astra-typescript) | The TypeScript SDK, to validate and resolve ASTRA analyses in Node and the browser. [`npm install @astra-spec/sdk`](https://www.npmjs.com/package/@astra-spec/sdk) |
 | [**astra-ui**](https://github.com/LightconeResearch/astra-ui) | Composable, themable React components to display ASTRA analyses. [`npm install @astra-spec/ui`](https://www.npmjs.com/package/@astra-spec/ui) |
 | [**MySTRA**](https://github.com/LightconeResearch/MySTRA) | A [MyST](https://mystmd.org) plugin to write publications on top of ASTRA analyses, pulling in decisions, outputs and numbers by reference. |
@@ -118,8 +118,8 @@ ASTRA is intentionally early, and the most valuable thing it can have right now 
 
 Where to go:
 
-- **Schema and specification**: [astra-spec issues](https://github.com/LightconeResearch/astra-spec/issues).
-- **CLI and Python SDK**: [astra-tools issues](https://github.com/LightconeResearch/astra-tools/issues).
+- **Schema and specification**: [astra-spec issues](https://github.com/astra-project/astra-spec/issues).
+- **CLI and Python SDK**: [astra-tools issues](https://github.com/astra-project/astra-tools/issues).
 - **Significant or contested changes** (new schema concepts, breaking changes, conventions): the [RFC process](https://astra-spec.org/latest/rfc-process/).
 
 See the [Community page](https://astra-spec.org/latest/community/) and each repository's `CONTRIBUTING.md` for the details.
@@ -133,4 +133,4 @@ All development happens in public, and decisions and their rationale are recorde
 - **Schema**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - **Code**: [BSD 3-Clause](https://opensource.org/license/bsd-3-clause)
 
-Both allow unrestricted academic and commercial use. If you use ASTRA in your research or tooling, please cite it with the **"Cite this repository"** button on [astra-spec](https://github.com/LightconeResearch/astra-spec), and include the schema version you targeted.
+Both allow unrestricted academic and commercial use. If you use ASTRA in your research or tooling, please cite it with the **"Cite this repository"** button on [astra-spec](https://github.com/astra-project/astra-spec), and include the schema version you targeted.
