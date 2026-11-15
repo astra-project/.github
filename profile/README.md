@@ -98,8 +98,8 @@ ASTRA started at [Lightcone Research](https://github.com/LightconeResearch), whi
 | [**astra-spec**](https://github.com/astra-project/astra-spec) | The specification: the LinkML schema, the generated JSON Schemas, the conformance suite, the RFCs, and the documentation at [astra-spec.org](https://astra-spec.org). |
 | [**astra-tools**](https://github.com/astra-project/astra-tools) | The Python SDK and the `astra` CLI: validation, inspection, planning and evidence verification. [`pip install astra-tools`](https://pypi.org/project/astra-tools/) |
 | [**astra-typescript**](https://github.com/astra-project/astra-typescript) | The TypeScript SDK, to validate and resolve ASTRA analyses in Node and the browser. [`npm install @astra-spec/sdk`](https://www.npmjs.com/package/@astra-spec/sdk) |
-| [**astra-ui**](https://github.com/LightconeResearch/astra-ui) | Composable, themable React components to display ASTRA analyses. [`npm install @astra-spec/ui`](https://www.npmjs.com/package/@astra-spec/ui) |
-| [**MySTRA**](https://github.com/LightconeResearch/MySTRA) | A [MyST](https://mystmd.org) plugin to write publications on top of ASTRA analyses, pulling in decisions, outputs and numbers by reference. |
+| [**astra-ui**](https://github.com/astra-project/astra-ui) | Composable, themable React components to display ASTRA analyses. [`npm install @astra-spec/ui`](https://www.npmjs.com/package/@astra-spec/ui) |
+| [**MySTRA**](https://github.com/astra-project/MySTRA) | A [MyST](https://mystmd.org) plugin to write publications on top of ASTRA analyses, pulling in decisions, outputs and numbers by reference. |
 | [**brand**](https://github.com/astra-project/brand) | The ASTRA logo, colours, type and usage rules, with light and dark versions of every asset. |
 
 ### Built on ASTRA
